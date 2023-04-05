@@ -2,14 +2,13 @@
 
 ### Caleb Lykken
 
-INFO 330
+INFO 330 section B
 
-* [SQLite](SQLite.md)
 * [Oracle Database](OracleDB.md)
 * [Cassandra](Cassandra.md)
 * [Microsoft SQL](MSSQL.md)
-* [Couchbase](Couchbase.md)
-* [Neo4j](neo4j.md)
-* [Redis](redis.md)
 * [PostgreSQL](postgre.md)
-* [MongoDB](MongoDB.md) (Extra credit)
+* [MongoDB](MongoDB.md)
+* [Influx](Influx.md)
+* [CockroachDB](Cockroach.md)
+* [Arango](Arango.md)
